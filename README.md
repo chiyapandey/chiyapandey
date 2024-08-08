@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @chiyapandey
-- 👀 I’m interested in ...
+- ✨ Frontend Developer
 - 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chiyapandey@1gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: Singer
+- ⚡ Fun fact: Love to Sing #Singer
 
 <!---
 chiyapandey/chiyapandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
