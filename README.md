@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiyapandey
 - ✨ Frontend Developer
 - 🌱 I’m currently learning Backend
-- 📫 How to reach me chiyapandey@1gmail.com
+- 📫 How to reach me 
 - ⚡ Fun fact: Love to Sing #Singer
 
 <!---
