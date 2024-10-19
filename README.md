@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiyapandey
-- ✨ Fullstcak  Developer
+- ✨ FullStack Developer
 - 🌱 I’m currently learning Backend
 - 📫 How to reach me 
 - ⚡ Fun fact: Love to Sing #Singer
